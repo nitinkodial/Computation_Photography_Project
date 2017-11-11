@@ -1,2 +1,1 @@
-# Computation_Photography_Project
-Project which manipulates backgrounds in portrait photos to produce artistic effects
+Computation Photograhy project which manipulates backgrounds in portrait photos to produce artistic effects.
